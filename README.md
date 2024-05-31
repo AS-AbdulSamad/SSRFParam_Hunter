@@ -17,7 +17,7 @@ SSRFParam_Hunter is a command-line tool designed to aid penetration testers in q
 
 ## Sample
 
-![image](https://github.com/AS-AbdulSamad/SSRFParam_Hunter/assets/116205223/8fdb2883-4901-4eaf-b885-e6da197f0e85)
+![image](https://github.com/AS-AbdulSamad/SSRFParam_Hunter/assets/116205223/390c8c70-0bdb-4a5c-9663-080214ac1d2f)
 
 
 ## Disclaimer:
